@@ -1,36 +1,50 @@
-# Hi, I'm Ankush 👋
+# Hi, I'm Ankush Dhanda 👋
 
-🚀 AI Systems Engineer
+🚀 AI Systems Engineer | Distributed Systems | Real-Time ML Pipelines
+
+---
 
 ## 🧠 About Me
 
-* Building end-to-end ML systems (not just models)
-* Interested in distributed systems, real-time pipelines, and scalable ML
-* Experience with Kafka, Spark, and backend systems
+* Software Engineer working on **real-time V2X systems and edge intelligence**
+* Building **end-to-end AI pipelines** (Kafka → Spark → ML → Deployment)
+* Strong focus on **low-latency, high-throughput systems**
+* Interested in **scalable ML infrastructure and system design**
+
+---
 
 ## ⚙️ Tech Stack
 
-* Languages: C++,Python, Java
-* ML: scikit-learn, PyTorch
-* Data: Kafka, Spark, TimescaleDB
-* Tools: Docker, Git, Linux (WSL2)
+**Languages:**
+C++, Java, Python
 
-## 📌 Current Focus
+**AI/ML:**
+scikit-learn, TensorFlow, MLflow
 
-* End-to-end ML pipeline project
-* Streaming data systems
-* Model deployment
+**Systems & Data:**
+Kafka, Spark Structured Streaming, TimescaleDB, MQTT
 
-## 📂 Featured Projects
+**Infrastructure:**
+Docker, AWS (EC2/S3/Lambda), Linux (WSL2)
 
-* 
+---
+
+## 🚀 What I’m Building
+
+* End-to-end ML pipeline (local → streaming → deployment)
+* Real-time hazard detection system (Kafka + Spark + ML)
+* Scalable model deployment system
+
+---
+
+## 📌 Featured Projects (coming soon)
+
+* ML End-to-End Pipeline
+* Real-Time Streaming ML System
+* Model Deployment Platform
+
+---
 
 ## 📫 Connect
 
-* LinkedIn: https://www.linkedin.com/in/ankush-dhanda/
-
-
-<!---
-ankushdhanda/ankushdhanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* LinkedIn: https://linkedin.com/in/ankushdhanda
